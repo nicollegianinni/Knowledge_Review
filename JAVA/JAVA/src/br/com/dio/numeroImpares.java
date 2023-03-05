@@ -10,7 +10,7 @@ public class numeroImpares {
         while (numero <= 100) {
 
             if (numero % 2 != 0)
-                System.out.println("\n" + numero);
+                System.out.println("\n " + numero);
 
             numero++;
         }
